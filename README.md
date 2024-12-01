@@ -1,4 +1,4 @@
-# PIAIC Q2 Notes by Wajahat Hussain  
+## PIAIC Q2 Notes by Wajahat Hussain  
 
 Welcome to the **PIAIC Q2 Notes** repository! This repository contains my detailed and well-structured notes for Quarter 2 of the **Presidential Initiative for Artificial Intelligence and Computing (PIAIC)**.  
 
@@ -35,13 +35,12 @@ Your feedback is invaluable! If you have suggestions or spot errors, kindly rais
 ## About Me
 
 I am Wajahat Hussain, a passionate learner, full-stack developer, and PIAIC student. This repository reflects my learning journey and aims to assist others in mastering Agentic AI and advanced programming concepts.
----
-Connect with me:
+
+## Connect with me:
 
 ### LinkedIn: Wajahat Hussain Sangi
 
 ### YouTube: Wizard Explains
-
 
 
 Happy learning! 🚀
