@@ -1,0 +1,25 @@
+[project]
+name = "project-flow01"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Wajahat Hussain", email = "wajahat.taurus2009@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "crewai>=0.100.1",
+    "litellm>=1.59.8",
+]
+
+[project.scripts]
+project-flow01 = "project_flow01:main"
+simple_flow = "project_flow01.simple_flow:kickoff"
+call_llm = "project_flow01.prompt_chaining:kickoff"
+routing_run= "project_flow01.routing:chalo"
+routing_plot= "project_flow01.routing:plot"
+math_demo = "project_flow01.hello:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
