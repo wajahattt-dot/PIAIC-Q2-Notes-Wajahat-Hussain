@@ -1,7 +1,7 @@
 from crewai.flow.flow import Flow, start, listen  # type: ignore
 from litellm import completion # type: ignore
 
-API_KEY= 'AIzaSyBBNC4cKBQoer0611vHglETTpTN2Wq35x4'
+API_KEY= 'YOUR_API_KEY'
 
 class CityFunFact(Flow):
 
